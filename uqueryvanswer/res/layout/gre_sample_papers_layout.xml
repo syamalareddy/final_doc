@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onVerbalReasoningClick"
+        android:padding="5dp"
+        android:text="Verbal Reasoning" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onQuantitativeReasoningClick"
+        android:padding="5dp"
+        android:text="Quantitative Reasoning" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onAnalyticalWriting1Click"
+        android:padding="5dp"
+        android:text="Analytical Writing" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onAnalyticalWriting2Click"
+        android:padding="5dp"
+        android:text="Analytical Writing" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+</LinearLayout>

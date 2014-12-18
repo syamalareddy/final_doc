@@ -1,0 +1,165 @@
+{
+  "surveyId": 1,
+  "surveyTitle": "Read the following passage & answer the questions that follows : \n
+Though the U.S. prides itself on being a leader in the world community ,a recent report shows that it lags far behind other industrialized countries in meeting the needs of its youngest and most vulnerable citizens. The U.S.has a higher infant mortality rate ,a higher proportion of low birthweight babies,a smaller proportion of babies immunized against childhood diseases and a much higher rate of adolescent pregnancies . theses findings , described as a “quiet crisis “ requiring immediate and far-reaching action , appeared in a report prepared by a task force of educators , doctors , politicians and business people . According to the report , a fourth of the nation’s 12 million infants and toddlers live in poverty . as many as half confront risk factors that could harm their ability to develop intellectually , physically and socially . child immunization are too low , more children are born into poverty , more are in substandard care while their parents work and more being raised raised by single parents . when taken together these and other risk factors can lead to educations and health problems that are much harder and more costly to reverse.
+The crisis begins in the womb with unplanned parenthood. Women with unplanned pregnancies are less likely to seek pre-natal care . in the U.S. 80% of teenage pregnancies and 56% of all pregnancies are unplanned .The problems continue after birth where unplanned pregnancies and unstable partnerships often go hand in hand . Since 1950, the number of single parent families has nearly tripled . More then 25 percent of all births today are to unmarried mothers . As the number of single parent families grows and more women enter the work force , infants and toddlers are increasingly in the care of people other than their parents . 
+Most disturbingly , recent statistics show that American parent are increasingly neglecting or abusing their children , In only four years from 1987-1971 the number of children in foster care increased by over 50 percent. Babies under the age of one are the fastest growing category of children entering foster care . The crisis affects children under the age of three most severely , the report says.yet, it is this period- from infancy through preschool years- that sets the stage fir a child’s future. 
+",
+  "questions": [
+    {
+      "questionId": 1,
+      "questionTitle": " The main focus of the passage is on the plight of ",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "orphaned children"
+        },
+        {
+          "optionId": 2,
+          "optionName": "teenage mothers"
+        },
+        {
+          "optionId": 3,
+          "optionName": "low birth weight babie"
+        },
+        {
+          "optionId": 4,
+          "optionName": "unwed mothers"
+        },
+        {
+          "optionId": 5,
+          "optionName": "None of these "
+        }
+      ],
+      "answerOption": {
+        "optionId": 1,
+        "optionName": "orphaned children"
+      }
+    },
+    {
+      "questionId": 2,
+      "questionTitle": "Children falling in which are group are most severely affected by the quiet crisis",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "Below 1 years"
+        },
+        {
+          "optionId": 2,
+          "optionName": "Below 3 years"
+        },
+        {
+          "optionId": 3,
+          "optionName": " Between 2 & 3 years"
+        },
+        {
+          "optionId": 4,
+          "optionName": "Between 1& 3 years"
+        },
+        {
+          "optionId": 5,
+          "optionName": "None of these"
+        }
+      ],
+      "answerOption": {
+        "optionId": 2,
+        "optionName": "Below 3 years"
+      }
+    },
+    {
+      "questionId": 3,
+      "questionTitle": "Which of the following does not constitute the ‘quite crisis’ in the U.S. as per the task force report",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "Lower proportion of new born babies with normal weight"
+        },
+        {
+          "optionId": 2,
+          "optionName": "Higher incidence of adolescent girls becoming mothers	"
+        },
+        {
+          "optionId": 3,
+          "optionName": "Lower rate of babies surviving childhood diseases "
+        },
+        {
+          "optionId": 4,
+          "optionName": "Larger proportion of babies who are deprived of immunization "
+        },
+        {
+          "optionId": 5,
+          "optionName": "Increasing cases of teenage couples getting divorced "
+        }
+      ],
+      "answerOption": {
+        "optionId": 3,
+        "optionName": "Lower rate of babies surviving childhood diseases"
+      }
+    },
+    {
+      "questionId": 4,
+      "questionTitle": "Which of the following statements is not true in the context of the passage",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "The number of single-parent families today is approximately three times that four"
+        },
+        {
+          "optionId": 2,
+          "optionName": " The number of children in the U.S.entering foster care has decreased after 1991.decades ago "
+        },
+        {
+          "optionId": 3,
+          "optionName": "In the U.S. the number of infants living in poverty is about 3 million"
+        },
+        {
+          "optionId": 4,
+          "optionName": "Only 20 percent of all the pregnancies in the U.S. are planed "
+        },
+        {
+          "optionId": 5,
+          "optionName": "About 6 million infants in the U.S. are likely to develop educational and health problems"
+        }
+      ],
+      "answerOption": {
+        "optionId": 4,
+        "optionName": "Only 20 percent of all the pregnancies in the U.S. are planed"
+      }
+    },
+    {
+      "questionId": 5,
+      "questionTitle": "The number of children born to married mothers in the U.S. is approximately how many times the number of children born to unwed mothers",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "1.5 times"
+        },
+        {
+          "optionId": 2,
+          "optionName": "2 times"
+        },
+        {
+          "optionId": 3,
+          "optionName": "3 times"
+        },
+        {
+          "optionId": 4,
+          "optionName": "3.5 times"
+        },
+        {
+          "optionId": 5,
+          "optionName": "Not mentioned in the passage "
+        }
+      ],
+      "answerOption": {
+        "optionId": 5,
+        "optionName": "Not mentioned in the passage"
+      }
+    }
+  ]
+}

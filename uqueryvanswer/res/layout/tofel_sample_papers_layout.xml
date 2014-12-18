@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onSamplePaper1Click"
+        android:padding="5dp"
+        android:text="Sample Paper 1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onSamplePaper2Click"
+        android:padding="5dp"
+        android:text="Sample Paper 2" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onSamplePaper3Click"
+        android:padding="5dp"
+        android:text="Sample Paper 3" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onSamplePaper4Click"
+        android:padding="5dp"
+        android:text="Sample Paper 4" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+      <TextView
+        style="@style/normalTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center_vertical"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:onClick="onSamplePaper5Click"
+        android:padding="5dp"
+        android:text="Sample Paper 5" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+</LinearLayout>

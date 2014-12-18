@@ -1,0 +1,161 @@
+{
+  "surveyId": 1,
+  "surveyTitle": "GRE Mock Test3",
+  "questions": [
+    {
+      "questionId": 1,
+      "questionTitle": "What least number should be subtracted from 2590 so that the remainder when divided by 9, 11 and 13 will leave in each case the same remainder 6? Which of the following statements is true? Indicate the corrrect option.",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "2"
+        },
+        {
+          "optionId": 2,
+          "optionName": "3"
+        },
+        {
+          "optionId": 3,
+          "optionName": "6"
+        },
+        {
+          "optionId": 4,
+          "optionName": "10"
+        },
+        {
+          "optionId": 5,
+          "optionName": "14"
+        }
+      ],
+      "answerOption": {
+        "optionId": 4,
+        "optionName": "10"
+      }
+    },
+    {
+      "questionId": 2,
+      "questionTitle": "Which is the smallest number by which 19404 should be multiplied to make it a perfect square? Indicate the correct option.",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "2"
+        },
+        {
+          "optionId": 2,
+          "optionName": "3"
+        },
+        {
+          "optionId": 3,
+          "optionName": "7"
+        },
+        {
+          "optionId": 4,
+          "optionName": "11"
+        },
+        {
+          "optionId": 5,
+          "optionName": "22"
+        }
+      ],
+      "answerOption": {
+        "optionId": 4,
+        "optionName": "11"
+      }
+    },
+    {
+      "questionId": 3,
+      "questionTitle": "If a/b = 1/5 which of the following is equal to (3a+2b)/(3a-2b)? Indicate the correct option.",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "13/5"
+        },
+        {
+          "optionId": 2,
+          "optionName": "91/25"
+        },
+        {
+          "optionId": 3,
+          "optionName": "-91/25"
+        },
+        {
+          "optionId": 4,
+          "optionName": "-13/7"
+        },
+        {
+          "optionId": 5,
+          "optionName": "7/5"
+        }
+      ],
+      "answerOption": {
+        "optionId": 4,
+        "optionName": "-13/7"
+      }
+    },
+    {
+      "questionId": 4,
+      "questionTitle": "The price of commodity A is $5800 and it decreases at the rate of $2 per three months. Commodity B costs $4200 and it increases at the rate of $8 per four months. How many years will it take for the two COMMODITIES to become equal in price? Indicate the correct option.",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "4.5"
+        },
+        {
+          "optionId": 2,
+          "optionName": "3.8"
+        },
+        {
+          "optionId": 3,
+          "optionName": "20"
+        },
+        {
+          "optionId": 4,
+          "optionName": "60"
+        },
+        {
+          "optionId": 5,
+          "optionName": "50"
+        }
+      ],
+      "answerOption": {
+        "optionId": 5,
+        "optionName": "50"
+      }
+    },
+    {
+      "questionId": 5,
+      "questionTitle": "Find the next number in the series 12, 17, 23, 30, 38. Indicate the correct option.",
+      "questionType": 0,
+      "options": [
+        {
+          "optionId": 1,
+          "optionName": "48"
+        },
+        {
+          "optionId": 2,
+          "optionName": "43"
+        },
+        {
+          "optionId": 3,
+          "optionName": "47"
+        },
+        {
+          "optionId": 4,
+          "optionName": "51"
+        },
+        {
+          "optionId": 5,
+          "optionName": "45"
+        }
+      ],
+      "answerOption": {
+        "optionId": 3,
+        "optionName": "47"
+      }
+    }
+  ]
+}

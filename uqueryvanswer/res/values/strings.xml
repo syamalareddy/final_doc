@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> u query  v answer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Contact Us</string>
+    <string name="nameText">Name :</string>
+    <string name="emailText">Email :</string>
+    <string name="phoneText">Phone :</string>
+    <string name="queryText">Query :</string>
+    
+    <string name="submitText">Submit</string>
+    <string name="cancelText">Reset</string>
+    
+    <string-array name="template_file_names_list">
+         <item>first_template.txt</item>
+        <item>bleeding.txt</item>
+       
+       
+    </string-array>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gre"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_ic"
+        android:label="@string/app_name" android:name=".BaseApplication"
+        android:theme="@style/AppTheme"  android:uiOptions="splitActionBarWhenNarrow" >
+        <activity
+            android:name="com.example.gre.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.gre.GREActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.TofelActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.WebActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.GRESamplePapersActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.TofelSamplePapersActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.ListOfUniversities"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.GREMockTestActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.GREMockTestListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.TofelMockTestListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.gre.ScoreActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

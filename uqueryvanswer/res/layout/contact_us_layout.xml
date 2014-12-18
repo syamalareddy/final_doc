@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background" >
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/nameTitle"
+                style="@style/normalTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/name"
+                android:layout_margin="10dp"
+                android:gravity="bottom"
+                android:text="@string/nameText" />
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp" android:padding="5dp"
+                android:layout_toRightOf="@id/nameTitle"
+                android:background="@drawable/white_rounded_background" />
+
+            <TextView
+                android:id="@+id/emailTitle"
+                style="@style/normalTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/email"
+                android:layout_below="@id/nameTitle"
+                android:layout_margin="10dp"
+                android:gravity="bottom"
+                android:text="@string/emailText" />
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="150dp"
+                android:layout_height="50dp" 
+                android:layout_below="@id/name" android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/emailTitle"
+                android:background="@drawable/white_rounded_background" />
+
+            <TextView
+                android:id="@+id/phoneTitle"
+                style="@style/normalTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@+id/phone"
+                android:layout_below="@id/emailTitle"
+                android:layout_margin="10dp"
+                android:gravity="bottom"
+                android:text="@string/phoneText" />
+
+            <EditText
+                android:id="@+id/phone"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/email" android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/phoneTitle"
+                android:background="@drawable/white_rounded_background" />
+
+            <TextView
+                android:id="@+id/queryTitle"
+                style="@style/normalTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:layout_alignBottom="@+id/query"
+                android:layout_below="@id/phoneTitle"
+                android:layout_margin="10dp"
+                android:gravity="bottom"
+                android:text="@string/queryText" />
+
+            <EditText
+                android:id="@+id/query"
+                android:layout_width="200dp"
+                android:layout_height="150dp"
+                android:layout_below="@id/phone" android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/queryTitle"
+                android:background="@drawable/white_rounded_background" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/queryTitle"
+                android:layout_centerHorizontal="true"
+                android:padding="10dp"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/submitButton"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/button_background"
+                    android:text="@string/submitText" />
+
+                <Button
+                    android:id="@+id/cancelButton"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/button_background"
+                    android:text="@string/cancelText" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
